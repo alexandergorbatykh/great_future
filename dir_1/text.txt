@@ -1,2 +1,3 @@
 new_changes
 new line 2
+ne line from clone branch
